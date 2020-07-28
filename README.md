@@ -1,2 +1,2 @@
 # chatBot
-The project is rasa framework based chatbot to handle queries associated with multiple project and software management corporate platforms.
+The README will be updated post the Grand Finale.(SIH 2020).
